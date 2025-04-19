@@ -2,11 +2,13 @@
 
 A simple console-based Java calculator that supports basic arithmetic operations, Fibonacci sequence generation, and power/root functions.
 
-## Project Structure
-Calculator/ ├── src/ │ ├── UserInput.java # Handles user input and menu
-│ ├── Calculator.java # Implements calculation logic
-│ └── CalculatorMain.java # Main entry point
-└── README.md # Project documentation
+Calculator/
+├── src/
+│   ├── UserInput.java      # Handles user input and menu
+│   ├── Calculator.java     # Implements calculation logic
+│   └── CalculatorMain.java # Main entry point (with user comments)
+└── README.md               # Project documentation
+
 
 
 ## Features
