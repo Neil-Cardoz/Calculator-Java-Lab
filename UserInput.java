@@ -17,4 +17,10 @@ public class UserInput {
 
         return numbers;
     }
-}
+
+    // Method to take a single integer input from the user
+    int userSingleInput() {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a number:");
+        return scan.nextInt();
+    }
